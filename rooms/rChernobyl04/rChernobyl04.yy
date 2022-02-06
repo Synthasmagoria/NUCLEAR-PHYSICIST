@@ -15,7 +15,7 @@
   "layers": [
     {"assets":[
         {"spriteId":{"name":"sMarbleHill_FG","path":"sprites/sMarbleHill_FG/sMarbleHill_FG.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":1.0,"scaleY":0.96,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":-160.0,"resourceVersion":"1.0","name":"graphic_149FB00E","tags":[],"resourceType":"GMRSpriteGraphic",},
-      ],"visible":true,"depth":-1000,"userdefinedDepth":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Foreground","tags":[],"resourceType":"GMRAssetLayer",},
+      ],"visible":true,"depth":-1000,"userdefinedDepth":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":16,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Foreground","tags":[],"resourceType":"GMRAssetLayer",},
     {"tilesetId":{"name":"tChernobylBlueMushies","path":"tilesets/tChernobylBlueMushies/tChernobylBlueMushies.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":25,"SerialiseHeight":19,"TileSerialiseData":[
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,16,2147483648,2147483648,2147483648,2147483648,
 2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,2147483648,16,2147483648,2147483648,2147483648,2147483648,
@@ -89,6 +89,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"oNuclearSpikeRight","path":"objects/oNuclearSpikeRight/oNuclearSpikeRight.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":432.0,"y":600.0,"resourceVersion":"1.0","name":"inst_73635107","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oNuclearSpikeRight","path":"objects/oNuclearSpikeRight/oNuclearSpikeRight.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":464.0,"y":568.0,"resourceVersion":"1.0","name":"inst_59ED98C9","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oSSave","path":"objects/oSSave/oSSave.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":160.0,"y":512.0,"resourceVersion":"1.0","name":"inst_7CE6C13C","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"oBlock","path":"objects/oBlock/oBlock.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":0.0,"y":464.0,"resourceVersion":"1.0","name":"inst_176CA29B","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":0,"userdefinedDepth":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":8,"gridY":8,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"spriteId":{"name":"sMarbleHill_BG","path":"sprites/sMarbleHill_BG/sMarbleHill_BG.yy",},"colour":4294967295,"x":0,"y":0,"htiled":false,"vtiled":false,"hspeed":0.0,"vspeed":0.0,"stretch":false,"animationFPS":30.0,"animationSpeedType":0,"userdefinedAnimFPS":false,"visible":true,"depth":1000,"userdefinedDepth":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Background","tags":[],"resourceType":"GMRBackgroundLayer",},
   ],
@@ -147,6 +148,7 @@
     {"name":"inst_73635107","path":"rooms/rChernobyl04/rChernobyl04.yy",},
     {"name":"inst_59ED98C9","path":"rooms/rChernobyl04/rChernobyl04.yy",},
     {"name":"inst_7CE6C13C","path":"rooms/rChernobyl04/rChernobyl04.yy",},
+    {"name":"inst_176CA29B","path":"rooms/rChernobyl04/rChernobyl04.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,

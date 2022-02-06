@@ -14,7 +14,6 @@
   ],
   "layers": [
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"oBulletBlocker","path":"objects/oBulletBlocker/oBulletBlocker.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":608.0,"y":736.0,"resourceVersion":"1.0","name":"inst_5EDB4D89","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oChernobylClusterMushroom","path":"objects/oChernobylClusterMushroom/oChernobylClusterMushroom.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":2.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":64.0,"y":800.0,"resourceVersion":"1.0","name":"inst_207C00EE","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oDarkness","path":"objects/oDarkness/oDarkness.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":32.0,"y":0.0,"resourceVersion":"1.0","name":"inst_3EC05C33","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oCherryRing","path":"objects/oCherryRing/oCherryRing.yy",},"inheritCode":false,"hasCreationCode":true,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":432.0,"y":1136.0,"resourceVersion":"1.0","name":"inst_65C27176","tags":[],"resourceType":"GMRInstance",},
@@ -155,6 +154,7 @@
         {"properties":[],"isDnd":false,"objectId":{"name":"oUranium","path":"objects/oUranium/oUranium.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-64.0,"y":848.0,"resourceVersion":"1.0","name":"inst_7EC2E121","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oUranium","path":"objects/oUranium/oUranium.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-32.0,"y":848.0,"resourceVersion":"1.0","name":"inst_481D2497","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oUranium","path":"objects/oUranium/oUranium.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-32.0,"y":816.0,"resourceVersion":"1.0","name":"inst_487BFA76","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"oBlock","path":"objects/oBlock/oBlock.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":-32.0,"y":736.0,"resourceVersion":"1.0","name":"inst_246AC0ED","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":16,"gridY":16,"layers":[],"hierarchyFrozen":false,"effectEnabled":true,"effectType":null,"properties":[],"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"tilesetId":{"name":"tChernobylBlueMushies","path":"tilesets/tChernobylBlueMushies/tChernobylBlueMushies.yy",},"x":0,"y":0,"tiles":{"SerialiseWidth":25,"SerialiseHeight":38,"TileSerialiseData":[
 18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,18,
@@ -283,8 +283,6 @@
   "inheritCode": false,
   "instanceCreationOrder": [
     {"name":"inst_5AD86628","path":"rooms/rChernobyl02/rChernobyl02.yy",},
-    {"name":"inst_293B564E","path":"rooms/rChernobyl02/rChernobyl02.yy",},
-    {"name":"inst_5EDB4D89","path":"rooms/rChernobyl02/rChernobyl02.yy",},
     {"name":"inst_365D8E57","path":"rooms/rChernobyl02/rChernobyl02.yy",},
     {"name":"inst_5819A909","path":"rooms/rChernobyl02/rChernobyl02.yy",},
     {"name":"inst_2CFA472D","path":"rooms/rChernobyl02/rChernobyl02.yy",},
@@ -422,6 +420,8 @@
     {"name":"inst_7EC2E121","path":"rooms/rChernobyl02/rChernobyl02.yy",},
     {"name":"inst_481D2497","path":"rooms/rChernobyl02/rChernobyl02.yy",},
     {"name":"inst_487BFA76","path":"rooms/rChernobyl02/rChernobyl02.yy",},
+    {"name":"inst_293B564E","path":"rooms/rChernobyl02/rChernobyl02.yy",},
+    {"name":"inst_246AC0ED","path":"rooms/rChernobyl02/rChernobyl02.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
