@@ -33,7 +33,7 @@ debug_text = "DEBUG"
 #macro CONFIG_SECTION_SETTINGS "Settings"
 
 // Various
-#macro DEBUG true
+#macro DEBUG false
 #macro GAME_WIDTH 800
 #macro GAME_HEIGHT 608
 #macro FPS_BASE 50
