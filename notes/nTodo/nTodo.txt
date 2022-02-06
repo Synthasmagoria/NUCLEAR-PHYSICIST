@@ -1,0 +1,25 @@
+Management
+- Proper object tagging
+
+Dialogue & prompt
+- Different dialogue and prompt positioning functions
+- Adjust position for GUI instead of absolute position
+
+Misc
+- Add character customization system (vivi)
+- Skippable menu & save select
+- JSON saving
+- Outline shader
+- Rotation and omnidir gravity preparation
+
+Nuclear physicist
+- Title Screen
+- Dismantle with care
+- Extended urbex segment
+- Radioactive crystals (seed)
+- Custom spikes
+
+Penis 2
+- Pushblock intro section
+- Restarting music
+- Sign

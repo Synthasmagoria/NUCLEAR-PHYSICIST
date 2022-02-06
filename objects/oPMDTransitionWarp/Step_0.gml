@@ -1,0 +1,1 @@
+player_set_stopped(true)

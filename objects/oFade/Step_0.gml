@@ -1,0 +1,1 @@
+image_alpha = out ? 1 - alarm[0] / length : alarm[0] / length

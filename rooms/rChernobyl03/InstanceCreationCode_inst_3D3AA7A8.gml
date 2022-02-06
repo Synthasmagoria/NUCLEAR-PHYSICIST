@@ -1,0 +1,1 @@
+weapon = oAK470

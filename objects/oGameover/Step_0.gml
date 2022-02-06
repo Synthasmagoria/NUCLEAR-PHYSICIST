@@ -1,0 +1,1 @@
+time += f2sec(1) * running;

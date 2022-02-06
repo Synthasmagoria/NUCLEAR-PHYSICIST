@@ -1,0 +1,1 @@
+hs = -0.8 * global.fps_adjust
